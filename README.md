@@ -37,7 +37,7 @@ Any additional information goes here
 | ##   | NAME OF THE STUDENTS  | ROLL NUMBERS    | CONTRIBUTION               |
 | :--- | :-------------------- | :-------------- | :------------------------- |
 | `01` | `ARINDAM DAS`         | `16442723007`   | --- |
-| `02` | `AYAN KUMAR`          | `-----------`   | --- |
+| `02` | `AYAN KUMAR PANJA`    | `16442723010`   | --- |
 | `03` | `BISWADEEP`           | `-----------`   | --- |
 | `04` | `JITEN`               | `-----------`   | --- |
 | `05` | `MD FARHAN IFTEKHAR`  | `16442723022`   | --- |
