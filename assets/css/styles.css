@@ -620,7 +620,8 @@ a:hover {
 .abt-rt-inner {
   height: 100%;
   display: flex;
-  background: url(../images/about/abt-right-thumb.jpg) center/cover no-repeat;
+  background: url(../images/about/gcms.jpg) right/cover no-repeat;
+  border: 2px solid var(--meta-color);
 }
 
 a.expand-video {
