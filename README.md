@@ -34,18 +34,18 @@ Any additional information goes here
 
 ## Group - (2) - (Teammates)
 
-| ##   | NAME OF THE STUDENTS  | ROLL NUMBERS    | CONTRIBUTION               |
-| :--- | :-------------------- | :-------------- | :------------------------- |
-| `01` | `ARINDAM DAS`         | `16442723007`   | --- |
-| `02` | `AYAN KUMAR PANJA`    | `16442723010`   | --- |
-| `03` | `BISWADEEP`           | `-----------`   | --- |
-| `04` | `JITEN`               | `-----------`   | --- |
-| `05` | `MD FARHAN IFTEKHAR`  | `16442723022`   | --- |
-| `06` | `RONI SAMANTA`        | `16442723041`   | --- |
-| `07` | `NILADRI CHAKRABORTY` | `16442723024`   | --- |
-| `08` | `KRISH PANDEY`        | `16442723019`   | --- |
-| `09` | `SAGAR MONDAL`        | `16442723043`   | --- |
-| `10` | `SUBHAS DEY`          | `16442723056`   | --- |
+| ##   | NAME OF THE STUDENTS    | ROLL NUMBERS    | CONTRIBUTION               |
+| :--- | :---------------------- | :-------------- | :------------------------- |
+| `01` | `ARINDAM DAS`           | `16442723007`   | --- |
+| `02` | `AYAN KUMAR PANJA`      | `16442723010`   | --- |
+| `03` | `BISWADEEP SARKAR`      | `16442723013`   | --- |
+| `04` | `JITENDRA NATH PRADHAN` | `16442723018`   | --- |
+| `05` | `MD FARHAN IFTEKHAR`    | `16442723022`   | --- |
+| `06` | `RONI SAMANTA`          | `16442723041`   | --- |
+| `07` | `NILADRI CHAKRABORTY`   | `16442723024`   | --- |
+| `08` | `KRISH PANDEY`          | `16442723019`   | --- |
+| `09` | `SAGAR MONDAL`          | `16442723043`   | --- |
+| `10` | `SUBHAS DEY`            | `16442723056`   | --- |
 
 ## Feedback
 
