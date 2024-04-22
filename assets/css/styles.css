@@ -10,6 +10,7 @@ Name: CLASSY GEORGE COLLEGE!!
   --white: #ffffff;
   --white-2: #fefefe;
   --white-3: #f7f7f7;
+  --dark: #14171d;
 }
 html{
   scroll-behavior: smooth;
@@ -75,7 +76,7 @@ p {
   letter-spacing: 0;
   font-size: 16px;
   line-height: 28px;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 ul.list-inline {
   display: block;
@@ -180,6 +181,12 @@ a:hover {
   letter-spacing: 0;
   margin-right: 17px;
 }
+.ht-address ul li a{
+  color: var(--white);
+}
+.ht-address ul li a:hover, .ht-social ul li a:hover{
+  color: var(--white) !important;
+}
 .ht-address ul li i {
   font-size: 21px;
   margin-right: 7px;
@@ -221,7 +228,7 @@ a:hover {
 .sticky-header {
   position: fixed;
   top: 0;
-  background: #222;
+  background: var(--dark);
 }
 
 .header-bottom-inner {
@@ -537,7 +544,7 @@ a:hover {
   padding: 0 22px 0 23px;
   text-align: center;
   line-height: 60px;
-  background: #6b6c6d;
+  background: #14171d99;
   color: var(--white);
   border-radius: 33px;
   position: absolute;
@@ -546,6 +553,10 @@ a:hover {
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
+  -webkit-border-radius: 33px;
+  -moz-border-radius: 33px;
+  -ms-border-radius: 33px;
+  -o-border-radius: 33px;
 }
 
 .slider-area .owl-nav div:hover {
@@ -626,7 +637,7 @@ a:hover {
 }
 
 .abt-rt-inner {
-  height: 80%;
+  height: 85%;
   display: flex;
   background: url(../images/about/gcms.jpg) right/cover no-repeat;
   border: 2px solid var(--meta-color);
@@ -850,6 +861,7 @@ img.title-top-shape {
     END Take Toure Area
 *=============================================*/
 
+
 /*============================================
     1.7 Teacher Area
 *=============================================*/
@@ -869,7 +881,7 @@ img.title-top-shape {
   z-index: -1;
   height: 400px;
   width: 100%;
-  background: #14171d;
+  background: var(--dark);
 }
 .teacher-content ul li a {
   font-size: 16px;
@@ -958,7 +970,7 @@ img.title-top-shape {
 *=============================================*/
 
 .testimonial-area {
-  background: #14171d;
+  background: var(--dark);
   position: relative;
   z-index: 1;
 }
@@ -1029,9 +1041,14 @@ img.tst-bg {
   letter-spacing: 0;
   text-transform: uppercase;
   font-size: 36px;
+  color: var(--white-3);
 }
 .cta-btn {
   text-align: right;
+}
+
+.cta-btn .btn-light{
+  background: var(--white-3);
 }
 
 .cta-btn .btn-light:hover {
@@ -1043,15 +1060,42 @@ img.tst-bg {
 }
 
 /*============================================
-    END Call to Action
+    Placement
 *=============================================*/
+.Placement-text {
+  color: var(--dark);
+}
+.part-img img{
+  border: var(--meta-color) 3px solid;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  opacity: 90%;
+  transition: transform .8s;
+  -webkit-transition: transform .8s;
+  -moz-transition: transform .8s;
+  -ms-transition: transform .8s;
+  -o-transition: transform .8s;
+}
+
+.part-img img:hover{
+  transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+
 
 /*============================================
     1.12 Footer Area
 *=============================================*/
+footer .widget a img {
+  height: 63px;
+}
 
 .footer-top {
-  background: #14171d;
+  background: var(--dark);
 }
 .widget-company > a {
   display: inline-block;
@@ -1164,7 +1208,7 @@ span.post-date i {
     END Footer Area
 *=============================================*/
 
-/*============================================
+/* ============================================
     2. Home Two
 *=============================================*/
 
@@ -1203,6 +1247,7 @@ span.post-date i {
 .menu-style2.main-menu nav ul li a:hover:before {
   opacity: 1;
   width: 19px;
+  color: var(--meta-color);
 }
 
 .menu-style2.main-menu nav ul li.middle-logo a {
@@ -1592,7 +1637,7 @@ span.post-date i {
 
 /*============================================
     END Home Three
-*=============================================*/
+*============================================= */
 
 /*============================================
     4. Courses
@@ -1601,7 +1646,7 @@ span.post-date i {
 .crumbs-area {
   position: relative;
   z-index: 1;
-  background: url(../images/bg/bg1.jpg);
+  background: url(../images/bg/abt2-bg.jpg);
   padding: 213px 0 114px;
   background-size: cover;
 }
@@ -2216,6 +2261,10 @@ h4.comment-title {
   background: var(--meta-color);
 }
 
+.addimg img {
+  margin-bottom: 30px;
+}
+
 /*============================================
     END About
 *=============================================*/
@@ -2223,6 +2272,9 @@ h4.comment-title {
 /*============================================
     8. Contact
 *=============================================*/
+.contact-form-area {
+  /* contact-form-area */
+}
 
 .contact-info {
   z-index: 1;
