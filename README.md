@@ -36,16 +36,16 @@ Any additional information goes here
 
 | ##   | NAME OF THE STUDENTS    | ROLL NUMBERS    | CONTRIBUTION               |
 | :--- | :---------------------- | :-------------- | :------------------------- |
-| `01` | `ARINDAM DAS`           | `16442723007`   | --- |
-| `02` | `AYAN KUMAR PANJA`      | `16442723010`   | --- |
-| `03` | `BISWADEEP SARKAR`      | `16442723013`   | --- |
-| `04` | `JITENDRA NATH PRADHAN` | `16442723018`   | --- |
-| `05` | `MD FARHAN IFTEKHAR`    | `16442723022`   | --- |
-| `06` | `RONI SAMANTA`          | `16442723041`   | --- |
-| `07` | `NILADRI CHAKRABORTY`   | `16442723024`   | --- |
-| `08` | `KRISH PANDEY`          | `16442723019`   | --- |
-| `09` | `SAGAR MONDAL`          | `16442723043`   | --- |
-| `10` | `SUBHAS DEY`            | `16442723056`   | --- |
+| `01` | `ARINDAM DAS`           | `16442723007`   | Contact Form HTML JS |
+| `02` | `AYAN KUMAR PANJA`      | `16442723010`   | Content Write |
+| `03` | `BISWADEEP SARKAR`      | `16442723013`   | Navbar and Header Section |
+| `04` | `JITENDRA NATH PRADHAN` | `16442723018`   | Content Write |
+| `05` | `MD FARHAN IFTEKHAR`    | `16442723022`   | Contact Form HTML CSS |
+| `06` | `RONI SAMANTA`          | `16442723041`   | Content Write |
+| `07` | `NILADRI CHAKRABORTY`   | `16442723024`   | IMAGE and Content Write |
+| `08` | `KRISH PANDEY`          | `16442723019`   | About and Faculty |
+| `09` | `SAGAR MONDAL`          | `16442723043`   | **Restructured**. Component, Library & Framework |
+| `10` | `SUBHAS DEY`            | `16442723056`   | IMAGE and Media Resources |
 
 ## Feedback
 
